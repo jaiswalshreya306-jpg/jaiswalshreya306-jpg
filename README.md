@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sonal Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Shreya Jaiswal</h1>
 <h3 align="center">Full Stack Developer | B.Tech CSE  | Passionate about creating innovative and user-friendly web applications.</h3>
 
 <p align="left">
