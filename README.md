@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **Artificail Intelligence and Deep Learning**
 - 🌱 I'm currently learning **AI/ML, Deep Learning, React, Node.js and Web Development**
 - 👨‍💻 B.Tech (CSE) Student with a keen interest in AI/ML
-- 📫 How to reach me: **jaiswalsonal338@gmail.com**
+- 📫 How to reach me: **jaiswalshreya306@gmail.com**
 - ⚡ Fun fact: **I can turn caffeine into code and algorithms into solutions, all while keeping the bugs at bay!**
 - <p align="left">
   ⚡Follow this link to visit my portfolio: 
