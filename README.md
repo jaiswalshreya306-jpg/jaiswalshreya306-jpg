@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiswalshreya306-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="![Uploading shreya_photo.jpeg…]()
+  <img src="https://komarev.com/ghpvc/?username=jaiswalshreya306-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="shreya_photo.jpeg
 " />
 </p>
 
