@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiswalshreya306-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jaiswalshreya306-jpg&label=Profile%20Views&color=0e75b6&style=flat" alt="![Uploading shreya_photo.jpeg…]()
+" />
 </p>
 
 <img align="right" width="350" src="https://www.geeky-gadgets.com/wp-content/uploads/2024/02/How-to-use-GitHub-Copilot-AI-coding-assistant.webp" alt="Coding with GitHub Copilot" />
