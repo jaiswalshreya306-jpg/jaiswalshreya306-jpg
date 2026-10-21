@@ -78,10 +78,6 @@
 </p>
 
 
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
 
 ---
 
