@@ -77,6 +77,12 @@
   <img src="https://streak-stats.demolab.com?user=jaiswalshreya306-jpg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 <p align="center">
