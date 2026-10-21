@@ -1,0 +1,33 @@
+
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/streak.svg
+          colors: dark
+          user: jaiswalshreya306-jpg
+
+      - name: Commit updated streak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update GitHub streak" || exit 0
+          git push
